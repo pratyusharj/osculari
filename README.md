@@ -1,2 +1,1 @@
-# osculari
-# osculari
+# osculari - a web app for pratyusha and elijah's wedding 
